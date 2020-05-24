@@ -1,1 +1,1 @@
-Deploy AWS EKS with terraform
+Create AWS EKS with Terraform
